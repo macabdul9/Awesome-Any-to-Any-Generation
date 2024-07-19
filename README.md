@@ -3,3 +3,4 @@ This repository is dedicated to showcasing state-of-the-art techniques and imple
 
 **Models**
 1. AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling [Paper](https://arxiv.org/abs/2402.12226)
+2. Any-to-Any Generation via Composable Diffusion [Paper](https://arxiv.org/abs/2305.11846)
