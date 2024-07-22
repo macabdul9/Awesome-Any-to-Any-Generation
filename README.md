@@ -20,7 +20,6 @@ This repository is dedicated to showcasing state-of-the-art techniques and imple
 17. Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers[Paper](https://arxiv.org/abs/2405.05945)
 18. WorldGPT: Empowering LLM as Multimodal World Model [Paper](https://arxiv.org/abs/2404.18202)
 19. Seed-x: Multimodal models with unified multi-granularity comprehension and generation [Paper](https://arxiv.org/pdf/2404.14396)
-25. Cognitivedog: Large multimodal model based system to translate vision and language into action of quadruped robot [Paper](https://dl.acm.org/doi/pdf/10.1145/3610978.3641080?casa_token=Dj0S9sEYYSIAAAAA:JOEqTmyPF89l8SDSB-EFK2294dQiBaUwa9EBarNbMTb30u60cGKxPYDwqQUKC25WwqLW8Fyrv7hb)
 26. nach0: Multimodal natural and chemical languages foundation model [Paper](https://pubs.rsc.org/en/content/articlepdf/2024/sc/d4sc00966e)
 27. MammothModa: Multi-Modal Large Language Model [Paper](https://arxiv.org/pdf/2406.18193)
 28. Manipllm: Embodied multimodal large language model for object-centric robotic manipulation [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_ManipLLM_Embodied_Multimodal_Large_Language_Model_for_Object-Centric_Robotic_Manipulation_CVPR_2024_paper.pdf)
