@@ -20,8 +20,7 @@ This repository is dedicated to showcasing state-of-the-art techniques and imple
 17. Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers[Paper](https://arxiv.org/abs/2405.05945)
 18. WorldGPT: Empowering LLM as Multimodal World Model [Paper](https://arxiv.org/abs/2404.18202)
 19. Seed-x: Multimodal models with unified multi-granularity comprehension and generation [Paper](https://arxiv.org/pdf/2404.14396)
-28. Manipllm: Embodied multimodal large language model for object-centric robotic manipulation [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_ManipLLM_Embodied_Multimodal_Large_Language_Model_for_Object-Centric_Robotic_Manipulation_CVPR_2024_paper.pdf)
-29. 
+
 
  **At least Two Modalities (Out of Audio, Image, and Text)**
  1. Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion Latent Aligners [Paper](https://arxiv.org/abs/2402.17723)
@@ -32,9 +31,7 @@ This repository is dedicated to showcasing state-of-the-art techniques and imple
  6. Generating Images with Multimodal Language Models [Paper](https://arxiv.org/abs/2305.17216)
  7. Deep cross-modal audio-visual generation [Paper](https://dl.acm.org/doi/abs/10.1145/3126686.3126723?casa_token=AIAYcMcVdNYAAAAA:TrxxDnFlaJN_bu7g26blt70YvBy7j7c09g9BiSbCqCIvrBNxjhBbHPrbtX_RiHPsQfeavUWQDktC)
  8. Cmcgan: A uniform framework for cross-modal visual-audio mutual generation [Paper](https://ojs.aaai.org/index.php/AAAI/article/download/12329/12188)
- 9. Audio-to-image cross-modal generation [Paper](https://ieeexplore.ieee.org/iel7/9891857/9889787/09892863.pdf?casa_token=JqRPI-okJHAAAAAA:HwFVeCgLLlY8hF_1mBWsGR5o46MQS62E5xpu675ZtW6OWPoQciQgkVfLfO2cL6VBHSpAUVg1)
- 10. Glamm: Pixel grounding large multimodal model [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Rasheed_GLaMM_Pixel_Grounding_Large_Multimodal_Model_CVPR_2024_paper.pdf)
- 11. Generating images with multimodal language models [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/43a69d143273bd8215578bde887bb552-Paper-Conference.pdf)
+ 9. Generating images with multimodal language models [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/43a69d143273bd8215578bde887bb552-Paper-Conference.pdf)
 
 **Survey Papers**
 1. LLMs Meet Multimodal Generation and Editing: A Survey [Paper](https://arxiv.org/abs/2405.19334)
