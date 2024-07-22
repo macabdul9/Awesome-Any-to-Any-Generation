@@ -20,7 +20,6 @@ This repository is dedicated to showcasing state-of-the-art techniques and imple
 17. Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers[Paper](https://arxiv.org/abs/2405.05945)
 18. WorldGPT: Empowering LLM as Multimodal World Model [Paper](https://arxiv.org/abs/2404.18202)
 19. Seed-x: Multimodal models with unified multi-granularity comprehension and generation [Paper](https://arxiv.org/pdf/2404.14396)
-23. Multi_CycGT: A Deep Learning-Based Multimodal Model for Predicting the Membrane Permeability of Cyclic Peptides [Paper](https://pubs.acs.org/doi/pdf/10.1021/acs.jmedchem.3c01611?casa_token=RFFJP9RXqg4AAAAA:9L5zQf0uNPK92T9A9aWH5uUkjvCOVFMHFLjWND8fLJMOBpnvCd9UXoHXWvNCGTKHuRjCktS_Y-xpSmQ)
 24. Lumen: Unleashing versatile vision-centric capabilities of large multimodal models [Paper](https://arxiv.org/pdf/2403.07304)
 25. Cognitivedog: Large multimodal model based system to translate vision and language into action of quadruped robot [Paper](https://dl.acm.org/doi/pdf/10.1145/3610978.3641080?casa_token=Dj0S9sEYYSIAAAAA:JOEqTmyPF89l8SDSB-EFK2294dQiBaUwa9EBarNbMTb30u60cGKxPYDwqQUKC25WwqLW8Fyrv7hb)
 26. nach0: Multimodal natural and chemical languages foundation model [Paper](https://pubs.rsc.org/en/content/articlepdf/2024/sc/d4sc00966e)
