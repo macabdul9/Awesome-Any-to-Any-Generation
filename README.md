@@ -7,7 +7,7 @@ This repository is dedicated to showcasing state-of-the-art techniques and imple
 3. CoDi2: In-Context, Interleaved, and Interactive Any-to-Any Generation [Paper](https://arxiv.org/abs/2311.18775)
 4. 4M: Massively Multimodal Masked Modeling [Paper](https://arxiv.org/abs/2312.06647)
 5. 4M-21: An Any-to-Any Vision Model for Tens of Tasks and Modalities [Paper](https://arxiv.org/abs/2406.09406)
-6. C3Net: Compound Conditioned ControlNet for Multimodal Content Generation [Paper](
+6. C3Net: Compound Conditioned ControlNet for Multimodal Content Generation [Paper](https://arxiv.org/abs/2311.17951)
 7. C3LLM: Conditional Multimodal Content Generation Using Large Language Models [Paper](https://arxiv.org/abs/2405.16136)
 8. Visual Echoes: A Simple Unified Transformer for Audio-Visual Generation [Paper](https://arxiv.org/abs/2405.14598)
 9. NExT-GPT: Any-to-Any Multimodal LLM [Paper](https://arxiv.org/abs/2309.05519)
@@ -30,7 +30,7 @@ This repository is dedicated to showcasing state-of-the-art techniques and imple
  1. Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion Latent Aligners [Paper](https://arxiv.org/abs/2402.17723)
  2. MULTI-MODAL LATENT DIFFUSION [Paper][https://arxiv.org/abs/2306.04445)
  3. EasyGen: Easing Multimodal Generation with BiDiffuser and LLMs [Paper](https://arxiv.org/pdf/2310.08949)
- 4. Generative Visual Instruction Tuning
+ 4. Generative Visual Instruction Tuning [Paper](https://arxiv.org/abs/2406.11262)
  5. Multimodal Foundation Models: From Specialists to General-Purpose Assistants [Paper](https://arxiv.org/abs/2309.10020)
  6. Generating Images with Multimodal Language Models [Paper](https://arxiv.org/abs/2305.17216)
  7. Deep cross-modal audio-visual generation [Paper](https://dl.acm.org/doi/abs/10.1145/3126686.3126723?casa_token=AIAYcMcVdNYAAAAA:TrxxDnFlaJN_bu7g26blt70YvBy7j7c09g9BiSbCqCIvrBNxjhBbHPrbtX_RiHPsQfeavUWQDktC)
