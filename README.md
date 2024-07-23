@@ -19,6 +19,10 @@ This repository is dedicated to showcasing state-of-the-art techniques and imple
 16. Brain-Conditional Multimodal Synthesis: A Survey and Taxonomy [Paper](https://arxiv.org/abs/2401.00430)
 17. Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers[Paper](https://arxiv.org/abs/2405.05945)
 18. WorldGPT: Empowering LLM as Multimodal World Model [Paper](https://arxiv.org/abs/2404.18202)
+19. Teal: Tokenize and embed all for multi-modal large language mode [Paper](https://arxiv.org/pdf/2311.04589)
+20. Chatillusion: Efficient-aligning interleaved generation ability with visual instruction model [Paper](https://arxiv.org/pdf/2311.17963)
+21. “Codi-2: In-context, interleaved, and interactive any-to-any generation [Paper](https://arxiv.org/pdf/2311.18775)
+22. 
 
 
 
@@ -43,6 +47,10 @@ This repository is dedicated to showcasing state-of-the-art techniques and imple
 27. Grounding language models to images for multimodal generation [Paper](https://arxiv.org/pdf/2301.13823)
 28. Generating images with multimodal language models [Paper](https://arxiv.org/pdf/2305.17216)
 29. Generative pretraining in multimodality [Paper](https://arxiv.org/pdf/2307.05222)
+30. MINIGPT-5: INTERLEAVED VISION-AND-LANGUAGE GENERATION VIA GENERATIVE VOKENS [Paper](https://arxiv.org/pdf/2310.02239)
+31. “Minidalle3: Interactive text to image by prompting large language models[Paper](https://arxiv.org/pdf/2310.07653)
+
+
     
 
 **Survey Papers**
