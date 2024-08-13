@@ -22,7 +22,7 @@ This repository is dedicated to showcasing state-of-the-art techniques and imple
 19. Teal: Tokenize and embed all for multi-modal large language mode [Paper](https://arxiv.org/pdf/2311.04589)
 20. Chatillusion: Efficient-aligning interleaved generation ability with visual instruction model [Paper](https://arxiv.org/pdf/2311.17963)
 21. “Codi-2: In-context, interleaved, and interactive any-to-any generation [Paper](https://arxiv.org/pdf/2311.18775)
-22. 
+22. SEED-LLaMA: Making LLaMA SEE and Draw with SEED Tokenizer [Paper](https://arxiv.org/abs/2310.01218)
 
 
 
