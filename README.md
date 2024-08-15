@@ -49,6 +49,7 @@ This repository is dedicated to showcasing state-of-the-art techniques and imple
 29. Generative pretraining in multimodality [Paper](https://arxiv.org/pdf/2307.05222)
 30. MINIGPT-5: INTERLEAVED VISION-AND-LANGUAGE GENERATION VIA GENERATIVE VOKENS [Paper](https://arxiv.org/pdf/2310.02239)
 31. “Minidalle3: Interactive text to image by prompting large language models[Paper](https://arxiv.org/pdf/2310.07653)
+32. AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head [Paper](https://arxiv.org/abs/2304.12995)
 
 
     
